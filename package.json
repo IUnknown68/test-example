@@ -1,7 +1,7 @@
 {
   "name": "@seiberspace/test-example",
   "description": "Code example.",
-  "main": "index.js",
+  "main": "src/main.js",
   "repository": "https://github.com/IUnknown68/test-example.git",
   "author": "Arne Seib",
   "private": true,
