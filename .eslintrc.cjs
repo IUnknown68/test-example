@@ -1,10 +1,6 @@
 module.exports = {
   root: true,
 
-  plugins: [
-    'jest',
-  ],
-
   env: {
     es2021: true,
     node: true,
@@ -18,6 +14,11 @@ module.exports = {
     files: [
       '**/*.test.js',
     ],
+
+    plugins: [
+      'jest',
+    ],
+
     env: {
       'jest/globals': true,
     },
