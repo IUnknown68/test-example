@@ -25,7 +25,7 @@ The following commands are available:
 
 ### API
 
-See the api documentation, either as [markdown](https://github.com/IUnknown68/test-example/blob/main/api.md) or [html](./docs/).
+See the api documentation, either as [markdown](https://github.com/IUnknown68/test-example/blob/main/api.md) or [html](https://github.com/IUnknown68/test-example/blob/main/docs/).
 
 ### Todo:
 
