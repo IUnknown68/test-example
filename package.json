@@ -1,5 +1,6 @@
 {
   "name": "@seiberspace/test-example",
+  "version": "0.0.1",
   "description": "Code example.",
   "main": "src/main.js",
   "repository": "https://github.com/IUnknown68/test-example.git",
