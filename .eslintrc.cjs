@@ -3,13 +3,22 @@ module.exports = {
   plugins: [
     'jest',
   ],
+
   env: {
     es2021: true,
     node: true,
-    'jest/globals': true,
   },
 
   extends: [
     'airbnb-base',
   ],
+
+  overrides: [{
+    files: [
+      '**/*.test.js',
+    ],
+    env: {
+      'jest/globals': true,
+    },
+  }],
 };
